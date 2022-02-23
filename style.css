@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    background-color: #b3ffff;
+    /*radial gradient background */
+     background: radial-gradient(rgba(179,255,255,0.5), rgba(255,255,255,0.5), rgba(0,0,0,0.2));
+     text-align: center;
+}
+
+.heading{
+    font-family: cursive;
+    margin-top: 50px;
+}
+
+.input{
+
+    font-family: cursive;
+    color: #004d00;
+    font-weight: bold;
+    margin-top: 30px;
+    
+}
+#entry{
+    margin-top: 40px;
+    margin-right: 10px;
+    /* height: 30px; */
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    background-color: burlywood;
+}
+table,th,td{
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 17px;
+    font-family: cursive;
+    color: #004d00;
+    font-weight: bold;
+}
